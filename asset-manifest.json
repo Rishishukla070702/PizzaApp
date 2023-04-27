@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3563aba.css",
-    "main.js": "/static/js/main.f13839a6.js",
-    "static/media/Pizzab.jpeg": "/static/media/Pizzab.25d350f2020929edc13e.jpeg",
-    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
-    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
-    "index.html": "/index.html",
-    "main.e3563aba.css.map": "/static/css/main.e3563aba.css.map",
-    "main.f13839a6.js.map": "/static/js/main.f13839a6.js.map"
+    "main.css": "/Rishishukla070702/PizzaApp/static/css/main.ca37fc99.css",
+    "main.js": "/Rishishukla070702/PizzaApp/static/js/main.1c7e96c5.js",
+    "static/media/Pizzab.jpeg": "/Rishishukla070702/PizzaApp/static/media/Pizzab.25d350f2020929edc13e.jpeg",
+    "static/media/playstore.png": "/Rishishukla070702/PizzaApp/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/Rishishukla070702/PizzaApp/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/Rishishukla070702/PizzaApp/index.html",
+    "main.ca37fc99.css.map": "/Rishishukla070702/PizzaApp/static/css/main.ca37fc99.css.map",
+    "main.1c7e96c5.js.map": "/Rishishukla070702/PizzaApp/static/js/main.1c7e96c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3563aba.css",
-    "static/js/main.f13839a6.js"
+    "static/css/main.ca37fc99.css",
+    "static/js/main.1c7e96c5.js"
   ]
 }
