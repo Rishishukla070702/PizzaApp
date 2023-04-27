@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3563aba.css",
+    "main.js": "/static/js/main.f13839a6.js",
+    "static/media/Pizzab.jpeg": "/static/media/Pizzab.25d350f2020929edc13e.jpeg",
+    "static/media/playstore.png": "/static/media/playstore.82b4831979e0ce7c733e.png",
+    "static/media/Appstore.png": "/static/media/Appstore.d0c5839937e3c36285f6.png",
+    "index.html": "/index.html",
+    "main.e3563aba.css.map": "/static/css/main.e3563aba.css.map",
+    "main.f13839a6.js.map": "/static/js/main.f13839a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3563aba.css",
+    "static/js/main.f13839a6.js"
+  ]
+}
